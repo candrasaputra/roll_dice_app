@@ -16,5 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot
-<img src="assets/ss1.png" alt="App screenshot 1" width="200"/>
-<img src="assets/ss2.png" alt="App screenshot 2" width="200"/>
+<table>
+  <tr>
+    <td><img src="assets/ss1.png" alt="App screenshot 1" width="200"/></td>
+    <td><img src="assets/ss2.png" alt="App screenshot 2" width="200"/></td>
+  </tr>
+</table>
